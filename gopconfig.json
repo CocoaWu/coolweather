@@ -1,0 +1,15 @@
+{
+    "mode": "server",
+    "listen": ":5678",
+
+    "logfile": "my.log",
+    "loglevel": "WARNING",
+    "adminiface": "127.0.0.1:5234",
+
+    "cipher": "aes",
+    "key": "key:YhCRnOk7swf2KI6Q5oIwkA==",
+
+    "passwd": {
+        "CharlesWu": "Sa_1234567"
+    }
+}
